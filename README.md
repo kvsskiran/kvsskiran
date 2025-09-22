@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Vivek Sai Siva Kiran Kolliboina 👋  
 
-<!--
-**kvsskiran/kvsskiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Associate Software Engineer @ Decision Minds** | **GCP ACE** | **Snowflake** | **Databricks** | **SQL** | **Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+I’m a motivated and detail-oriented **Data Engineering enthusiast**, passionate about building scalable and reliable cloud-based data solutions.  
+Currently working with **Google Cloud Platform, Snowflake, and Databricks** to solve real-world data problems.  
+
+---
+
+## 🛠 Skills & Tools  
+- ☁️ **GCP**: BigQuery, Cloud Storage, IAM  
+- ❄️ **Snowflake**: Data Modeling, SQL Transformations  
+- 🔥 **Databricks**: Spark-based Data Processing & Analytics  
+- 🐍 **Python & SQL**: Data manipulation and querying  
+- 🌐 **Web Development (HTML, CSS, JS)** – internship background  
+
+---
+
+## 📜 Certifications  
+- Google Associate Cloud Engineer  
+- SnowPro® Core Certification  
+- SnowPro® Associate: Platform Certification  
+- Databricks Certified Data Engineer Associate  
+- Databricks Accredited Lakehouse Platform Fundamentals  
+- Cloud Computing Fundamentals  
+- Python Zero to Hero  
+- SQL (Basic & Intermediate)  
+
+---
+
+## 🏆 Achievements  
+- 🎖️ Academic Topper (2021–2023)  
+- 📑 Project Publication  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/kvsskiran/)  
+- [GitHub](https://github.com/kvsskiran)  
+- [Email](mailto:kvsskiran1311@gmail.com)  
+
+---
+
+⚡ *“Always learning, always building — passionate about Data Engineering and Cloud Technologies.”*  
